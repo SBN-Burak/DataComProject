@@ -1,0 +1,14 @@
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\bin\Debug\net8.0\C#CodeDeneme.exe
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\bin\Debug\net8.0\C#CodeDeneme.deps.json
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\bin\Debug\net8.0\C#CodeDeneme.runtimeconfig.json
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\bin\Debug\net8.0\C#CodeDeneme.dll
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\bin\Debug\net8.0\C#CodeDeneme.pdb
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\obj\Debug\net8.0\C#CodeDeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\obj\Debug\net8.0\C#CodeDeneme.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\obj\Debug\net8.0\C#CodeDeneme.AssemblyInfo.cs
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\obj\Debug\net8.0\C#CodeDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\obj\Debug\net8.0\C#CodeDeneme.dll
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\obj\Debug\net8.0\refint\C#CodeDeneme.dll
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\obj\Debug\net8.0\C#CodeDeneme.pdb
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\obj\Debug\net8.0\C#CodeDeneme.genruntimeconfig.cache
+C:\Users\Burak\Documents\Visual Studio 2022\Projeler\C#CodeDeneme\obj\Debug\net8.0\ref\C#CodeDeneme.dll
